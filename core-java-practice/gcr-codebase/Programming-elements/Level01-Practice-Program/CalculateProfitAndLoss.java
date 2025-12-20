@@ -1,7 +1,7 @@
 public class CalculateProfitAndLoss {
     public static void main(String[] args) {
-        double costPrice = 129; // Cost price of the item
-        double sellingPrice = 191; // Selling price of the item
+        double costPrice = 129; // Cost price of the item.
+        double sellingPrice = 191; // Selling price of the item.
             double profit = sellingPrice - costPrice;
             double profitPercentage = (double)((profit / costPrice) * 100);
             System.out.println("The Cost Price in INR "+ profit +" and Selling Price in INR "+ sellingPrice);
