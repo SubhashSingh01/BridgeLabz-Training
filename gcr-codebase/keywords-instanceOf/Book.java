@@ -1,5 +1,3 @@
-package keywords_instanceof;
-
 public class Book {
 	
 	private static String libraryName = "Egmore Library";

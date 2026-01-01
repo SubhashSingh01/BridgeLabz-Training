@@ -1,4 +1,4 @@
-package keywords_instanceof;
+
 
 public class Product {
 	
