@@ -1,4 +1,4 @@
-package scenario_based.flight_booking_system;
+
 import java.util.*;
 
 public class FlightService {

@@ -1,4 +1,4 @@
-package scenario_based.ecommerce_management_system;
+
 import java.util.*;
 
 public class Customer {

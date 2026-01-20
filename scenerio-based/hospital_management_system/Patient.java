@@ -1,4 +1,4 @@
-package scenario_based.hospital_management_system;
+
 
 import java.util.ArrayList;
 import java.util.List;

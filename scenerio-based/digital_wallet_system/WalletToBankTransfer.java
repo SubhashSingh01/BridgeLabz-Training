@@ -1,4 +1,4 @@
-package scenario_based.digital_wallet_system;
+
 
 public class WalletToBankTransfer implements TransferService {
     private static final double BANK_FEE_PERCENT = 0.02;

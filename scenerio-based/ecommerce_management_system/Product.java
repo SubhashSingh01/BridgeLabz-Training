@@ -1,4 +1,4 @@
-package scenario_based.ecommerce_management_system;
+
 
 class Product {
 	private int productId;

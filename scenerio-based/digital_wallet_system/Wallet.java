@@ -1,4 +1,4 @@
-package scenario_based.digital_wallet_system;
+
 import java.util.*;
 
 public class Wallet {

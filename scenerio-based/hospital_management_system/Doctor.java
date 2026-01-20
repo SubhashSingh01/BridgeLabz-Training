@@ -1,4 +1,4 @@
-package scenario_based.hospital_management_system;
+
 
 public abstract class Doctor extends Person {
     protected String specialization;

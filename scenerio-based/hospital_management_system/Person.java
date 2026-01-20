@@ -1,4 +1,4 @@
-package scenario_based.hospital_management_system;
+
 
 public class Person {
     protected int id;

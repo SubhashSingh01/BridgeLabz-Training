@@ -1,5 +1,3 @@
-package scenario_based.hospital_management_system;
-
 public class Appointment {
     private Patient patient;
     private Doctor doctor;

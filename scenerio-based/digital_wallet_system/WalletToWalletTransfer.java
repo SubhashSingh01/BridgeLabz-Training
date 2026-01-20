@@ -1,4 +1,4 @@
-package scenario_based.digital_wallet_system;
+
 
 public class WalletToWalletTransfer implements TransferService {
     @Override
