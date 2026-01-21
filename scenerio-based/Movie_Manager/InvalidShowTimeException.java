@@ -1,4 +1,4 @@
-package cinema_time;
+package Movie_Manager;
 
 public class InvalidShowTimeException extends Exception {
 	

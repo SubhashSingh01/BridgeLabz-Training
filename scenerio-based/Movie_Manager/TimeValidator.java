@@ -1,4 +1,4 @@
-package cinema_time;
+package Movie_Manager;
 
 public class TimeValidator {
 	public static void timeValidator(String time) throws InvalidShowTimeException {

@@ -1,4 +1,4 @@
-package cinema_time;
+package Movie_Manager;
 
 import java.util.ArrayList;
 
