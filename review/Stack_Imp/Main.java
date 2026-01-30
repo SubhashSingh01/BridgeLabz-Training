@@ -10,7 +10,7 @@ class stack{
 	}
 	public void pushelement(int ele)
 	{
-		if(top==arr.length)
+		if(top==arr.length-1)
 			System.out.print("stack already full");
 		else
 			arr[++top]=ele;
@@ -23,12 +23,12 @@ class stack{
 		return arr[top];
 		
 	}
-	public void popele() {
+	public int popele() {
 		if(top==-1) {
 			System.out.print("stack is already empty");
 			
 		}
-		top--;
+		return arr[top--];
 	}
 	
 }
